@@ -34,7 +34,7 @@
 - 🟢 Making HTTP Requests with k6
 - 🟢 Writing assertions in k6
 - 🟢 Validating responses
-- 🔴 Setting thresholds
+- 🟢 Setting thresholds
 - 🔴 Matric types and aggregation methods
 - 🔴 Defining a threshold for checks
 - 🔴 Custom metrics
