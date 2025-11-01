@@ -5,10 +5,6 @@ export default function () {
     const res = http.get('https://quickpizza.grafana.com/test.k6.io/');
     check(res, {
         'status is 200': (r) => r.status === 200,
-
-    });
-
-    check(res, {
         'page is startpage': (r) => r.body.includes('QuickPizza Legacy')
 
     });
