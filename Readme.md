@@ -41,8 +41,8 @@
 - 🟢 Custom metrics - A practical example
 - 🟢 Tags
 - 🟢 Custom tags
-- 🔴 Organizing requests in groups
-- 🔴 Defining thresholds for groups 
+- 🟢 Organizing requests in groups
+- 🟢 Defining thresholds for groups 
 - 🔴 Understanding the group duration metric
 - 🔴 Revisiting the request duration metric
 - 🔴 The structure of a k6 test script
