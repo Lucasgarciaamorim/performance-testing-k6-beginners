@@ -25,8 +25,8 @@
 - 🟢 Spike testing quiz
 - 🟢 Breakpoint testing
 - 🟢 Breakpoint testing quiz
-- 🟢 Soak testing — `soak.js
-- 🟢 Soak testing quiz`
+- 🟢 Soak testing
+- 🟢 Soak testing quiz
 - 🟢 Conclusion
 
 
