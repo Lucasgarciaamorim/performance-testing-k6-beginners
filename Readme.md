@@ -38,9 +38,9 @@
 - 🟢 Matric types and aggregation methods
 - 🟢 Defining a threshold for checks
 - 🟢 Custom metrics
-- 🔴 Custom metrics - A practical example
-- 🔴 Tags
-- 🔴 Custom tags
+- 🟢 Custom metrics - A practical example
+- 🟢 Tags
+- 🟢 Custom tags
 - 🔴 Organizing requests in groups
 - 🔴 Defining thresholds for groups 
 - 🔴 Understanding the group duration metric
