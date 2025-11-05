@@ -43,10 +43,10 @@
 - 🟢 Custom tags
 - 🟢 Organizing requests in groups
 - 🟢 Defining thresholds for groups 
-- 🔴 Understanding the group duration metric
-- 🔴 Revisiting the request duration metric
-- 🔴 The structure of a k6 test script
-- 🔴 Aborting the test execution 
+- 🟢 Understanding the group duration metric
+- 🟢 Revisiting the request duration metric
+- 🟢 The structure of a k6 test script
+- 🟢 Aborting the test execution 
 
 ## 4) Building HTTP requests for API
 - 🔴 Section Overview
