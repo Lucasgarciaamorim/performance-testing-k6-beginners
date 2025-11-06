@@ -5,24 +5,30 @@
 ## 1) Introduction & getting started with k6
 - 🟢 A brief introduction to k6
 - 🟢 How to use this course
+- 🟢 [ACTION REQUIRED] Important change
 - 🟢 Installation & your first test with k6
 - 🟢 A word of caution
-- 🟢 Basic concepts
-- 🟢 VUs & duration
-- 🟢 Results & metrics
+- 🟢 Understanding basic performance testing concepts
+- 🟢 Specifying VUs and test duration
+- 🟢 Understanding test results & metrics
 
 ## 2) Types of tests k6 can perform
 - 🟢 Section overview
 - 🟢 Performance testing
-- 🟢 Scalability concepts
+- 🟢 What is scalability: Basic scaling concepts
 - 🟢 Smoke testing
-- 🟢 Smoke testing quiz
+- 🟢 Smoke testing with k6
+- 🟢 Teste 1: Smoke testing quiz
 - 🟢 Load testing
+- 🟢 Load testing with k6
 - 🟢 Load testing quiz
+- 🟢 Teste 2: Load testing quiz
 - 🟢 Stress testing
-- 🟢 Stress testing (review)
+- 🟢 Stress testing with k6
+- 🟢 Teste 3: Stress testing
 - 🟢 Spike testing
-- 🟢 Spike testing quiz
+- 🟢 Spike testing with k6
+- 🟢 Teste 4: Spike testing quiz
 - 🟢 Breakpoint testing
 - 🟢 Breakpoint testing quiz
 - 🟢 Soak testing
@@ -49,25 +55,31 @@
 - 🟢 Aborting the test execution 
 
 ## 4) Building HTTP requests for API
-- 🔴 Section Overview
-- 🔴 Intro APIs / HTTP
-- 🔴 Important 
-- 🔴 GET
-- 🔴 JSON format explained
-- 🔴 Debug requests/responses
-- 🔴 Parsing JSON
-- 🔴 Correlation
-- 🔴 Headers
-- 🔴 POST
-- 🔴 Assignment POST
-- 🔴 Refactoring
-- 🔴 Token-based auth
-- 🔴 Assignment Create via POST
-- 🔴 Assignment Retrieve after creation
+- 🟢 Section Overview
+- 🟢 A quick introduction to APIs
+- 🟢 What is HTTP?
+- 🟢 Important update
+- 🟢 Making a GET request
+- 🟢 JSON format explained
+- 🟢 Debugging HTTP requests and responses
+- 🟢 Parsing JSON
+- 🟢 Correlating requests
+- 🟢 Accessing response headers
+- 🟢 Assignment - Making a POST request
+- 🟢 Teste 7: Assignment - Making a POST request
+- 🟢 Assignment - Making a POST request - Solution
+- 🟢 Coode reaftoring
+- 🔴 Token-based API Authentication
+- 🔴 Assignment - Create a new resource using POST
+- 🔴 Teste 8: Assignment - Create a new resource using POST
+- 🔴 Assignment - Create a new resource using POST - Solution
+- 🔴 Assignment - Retrieve a resource after creation
+- 🔴 Teste 9: Assignment - Retrieve a resource after creation
+- 🔴 Assignment - Retrieve a resource after creation - Solution
 - 🔴 HTTP 301 redirects
-- 🔴 PUT
-- 🔴 PATCH
-- 🔴 DELETE
+- 🔴 Making a PUT request
+- 🔴 Making a PATCH request
+- 🔴 Making a DELETE request
 
 ## 5) Using parameters in k6 scripts
 - 🔴 Env vars
