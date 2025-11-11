@@ -9,7 +9,7 @@ export default function () {
     }
 
     http.post(
-        'https://test-api.k6.io/user/register/',
+        'http://localhost:8000/user/register/',
         JSON.stringify(credentials),
         {
             headers: {
@@ -19,7 +19,7 @@ export default function () {
     );
 
     let res = http.post(
-        'https://test-api.k6.io/auth/token/login/',
+        'http://localhost:8000/auth/token/login/',
         JSON.stringify(
             {
                 username: credentials.username,
@@ -35,6 +35,7 @@ export default function () {
 
     const accessToken = res.json().access;
     console.log(accessToken);
+
 }
 //Neste código, fazemos uma requisição POST para registrar um novo usuário em uma API de teste
 //Construímos o corpo da requisição como um objeto JavaScript e o convertemos para uma string JSON usando JSON.stringify()
