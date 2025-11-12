@@ -70,14 +70,14 @@
 - 🟢 Assignment - Making a POST request - Solution
 - 🟢 Coode reaftoring
 - 🟢 Token-based API Authentication
-- 🔴 Assignment - Create a new resource using POST
-- 🔴 Teste 8: Assignment - Create a new resource using POST
-- 🔴 Assignment - Create a new resource using POST - Solution
-- 🔴 Assignment - Retrieve a resource after creation
-- 🔴 Teste 9: Assignment - Retrieve a resource after creation
-- 🔴 Assignment - Retrieve a resource after creation - Solution
-- 🔴 HTTP 301 redirects
-- 🔴 Making a PUT request
+- 🟢 Assignment - Create a new resource using POST
+- 🟢 Teste 8: Assignment - Create a new resource using POST
+- 🟢 Assignment - Create a new resource using POST - Solution
+- 🟢 Assignment - Retrieve a resource after creation
+- 🟢 Teste 9: Assignment - Retrieve a resource after creation
+- 🟢 Assignment - Retrieve a resource after creation - Solution
+- 🟢 HTTP 301 redirects
+- 🟢 Making a PUT request
 - 🔴 Making a PATCH request
 - 🔴 Making a DELETE request
 
