@@ -78,16 +78,16 @@
 - 🟢 Assignment - Retrieve a resource after creation - Solution
 - 🟢 HTTP 301 redirects
 - 🟢 Making a PUT request
-- 🔴 Making a PATCH request
-- 🔴 Making a DELETE request
+- 🟢 Making a PATCH request
+- 🟢 Making a DELETE request
 
 ## 5) Using parameters in k6 scripts
-- 🔴 Env vars
-- 🔴 Random think time (sleep)
-- 🔴 Random string
-- 🔴 Random item array
-- 🔴 External JSON
-- 🔴 External CSV
+- 🟢 Env vars
+- 🟢 Random think time (sleep)
+- 🟢 Random string
+- 🟢 Random item array
+- 🟢 External JSON
+- 🟢 External CSV
 
 ## 6) k6 Cloud
 - 🔴 Overview
