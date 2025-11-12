@@ -69,7 +69,7 @@
 - 🟢 Teste 7: Assignment - Making a POST request
 - 🟢 Assignment - Making a POST request - Solution
 - 🟢 Coode reaftoring
-- 🔴 Token-based API Authentication
+- 🟢 Token-based API Authentication
 - 🔴 Assignment - Create a new resource using POST
 - 🔴 Teste 8: Assignment - Create a new resource using POST
 - 🔴 Assignment - Create a new resource using POST - Solution
